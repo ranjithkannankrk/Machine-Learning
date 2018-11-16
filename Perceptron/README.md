@@ -2,7 +2,7 @@
 
 This an implementation of multiclass perceptron over MNIST dataset for prediction of hand written digits
 
-The program take two inputs
+The program takes two inputs
 
 1. The zipped MNIST image file consisting of samples for 10000 digit representations
 
