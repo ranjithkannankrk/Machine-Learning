@@ -5,3 +5,4 @@ This repository consists of codes of various machine learning algorithms applied
 1. Perceptron
 2. Maxent Classifier
 3. Neural Network
+4. Kmeans
