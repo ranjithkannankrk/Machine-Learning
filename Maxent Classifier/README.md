@@ -2,7 +2,7 @@
 
 This is an implementation of maxent classifier and the algorithm used was logistic regression with the solver as limited memory BFGS and a multinomial scheme is used where the cross-entropy loss function is applied, these were the basic configurations that were set.
 
-The program take two inputs
+The program takes two inputs
 
 1. The zipped MNIST image file consisting of samples for 10000 digit representations
 
